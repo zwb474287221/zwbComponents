@@ -3,3 +3,7 @@
 # dependencies
 /node_modules
 /package-lock.json
+
+*/node_modules
+yarn.lock
+.DS_Store

@@ -1,0 +1,15 @@
+{
+  "name": "translate",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "start": "node ./translate2",
+    "youdao": "node ./youdaoTranslate",
+    "baidu": "node ./baiduTranslate"
+  },
+  "dependencies": {
+    "axios": "^0.26.0",
+    "crypto-js": "^4.1.1"
+  }
+}
